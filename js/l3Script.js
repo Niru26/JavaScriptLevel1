@@ -134,4 +134,4 @@ function stars(rows) {
     }
 }
 
-stars (5);
+stars(5);
